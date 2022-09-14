@@ -1,0 +1,15 @@
+Server: nginx/1.10.3 (Ubuntu)
+Date: Wed, 14 Sep 2022 05:31:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Drupal-Cache: HIT
+Etag: "1663131634-1"
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+X-Generator: Drupal 7 (http://drupal.org)
+Cache-Control: public, max-age=600
+Last-Modified: Wed, 14 Sep 2022 05:00:34 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie
+Vary: Accept-Encoding
+Content-Encoding: gzip

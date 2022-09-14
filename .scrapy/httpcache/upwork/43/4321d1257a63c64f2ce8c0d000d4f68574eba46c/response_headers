@@ -1,0 +1,16 @@
+Date: Tue, 30 Aug 2022 07:36:45 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Chl-Bypass: 1
+Permissions-Policy: accelerometer=(),autoplay=(),camera=(),clipboard-read=(),clipboard-write=(),fullscreen=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+X-Frame-Options: SAMEORIGIN
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: __cf_bm=1iT6ryIr0dZwmt33_FytdmKWiaS6wsEqQUrbG_1.ZCs-1661845005-0-AYXtDYFV8og3gf/cSxN4JeJk0w+46wgamBDTwNXFhThY8eCDHhkIQsSQ0IKnfxt85zOmxFA4rUeXQHgFwCCDbAg=; path=/; expires=Tue, 30-Aug-22 08:06:45 GMT; domain=.upwork.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 742bdb71c88ed1e8-MCT
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
